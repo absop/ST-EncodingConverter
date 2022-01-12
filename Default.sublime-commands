@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Convert Encoding: from Hex to ASCII",
+        "command": "convert_hex_to_ascii"
+    },
+    {
+        "caption": "Convert Encoding: from ASCII to Hex",
+        "command": "convert_ascii_to_hex"
+    }
+]
